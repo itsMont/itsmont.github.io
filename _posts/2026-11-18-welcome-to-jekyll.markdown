@@ -1,16 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Research Internship at Purdue University – HPC Semiconductor Industry Implementations"
 date:   2026-11-18 17:20:59 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Introducción
 
-Jekyll requires blog post files to be named according to the following format:
+Este trabajo de grado tiene el objetivo de realizar una exploración de las aplicaciones de la computación de alto rendimiento en sectores modernos de la industria aprovechando mi estancia de investigación en el laboratorio del profesor Tillmann Kubis gracias al programa **UREP-C** en cooperación con Purdue University.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
 
