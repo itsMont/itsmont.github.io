@@ -21,7 +21,7 @@
 title: Jhojan Montaña
 email: jmontanaa@unal.edu.co
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal portfolio. You'll find here my projects, my blog and my contact information here.
+  This is my personal portfolio. You'll find here my projects, my blog and my contact information.
 domain: itsmont.github.io/      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://itsmont.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 github_username:  itsmont
@@ -31,6 +31,7 @@ linkedin_username: jhojanmontana
 theme: minima
 plugins:
   - jekyll-feed
+skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
