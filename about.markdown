@@ -11,6 +11,9 @@ I'm currently a Undergraduate Research Intern @ Purdue University in The Kubis G
 
 # Personal Statements
 
+> y deberás crear si quieres ver a tu tierra en paz (Luis Alberto Spinetta)
+
+
 I follow [Federico Ardila's](https://fardila.com/) Axioms:
 
 - Axiom 1. Mathematical talent is distributed equally
@@ -27,11 +30,14 @@ demographic, and economic boundaries.
 I'm planning to write about a current version of Karpathy's incredible guide to succeed as an undergrad (Y en español para las futuras generaciones de la Nacho!). In the meanwhile, I suggest you to have a look at this guide: [Doing well in your courses a guide by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html)
 
 # Interests (out of research)
-Adesso sto imparando l'italiano 🇮🇹. If you're into language learning [follow me in Duolingo!](https://www.duolingo.com/profile/ProtonSir?via=share_profile_link). My languages "stack" is: 🇪🇸 (Native) - 🇺🇸 (Getting the Hoosier accent - C1) - 🇫🇷🥖 (B2) - 🟩 Esperanto (B1).
+
+My languages "stack" is: 🇪🇸 (Native) - 🇺🇸 (Getting the Hoosier accent - C1) - 🇫🇷🥖 (B2) - 🟩 Esperanto (B1).
+
+Adesso sto imparando l'italiano 🇮🇹. If you're into language learning [follow me in Duolingo!](https://www.duolingo.com/profile/ProtonSir?via=share_profile_link). 
 
 My current football juggle record is 185.
 
-I'm also an amateur urban photographer. By now, here you can find some photos from my last trip to _San Francisco_. I'll keep updating this website with more about the art I do. (I'm currently working on a more enjoyful art portfolio 😅)
+I'm also an amateur urban photographer. By now, here you can find some photos from my last trip to _San Francisco_. I'll keep updating this website with more about the art I do. (I'm currently working on a more enjoyable art portfolio 😅)
 
 ![Un día en San Francisco, Nov. 2026]({{ "/assets/img/about/IMG_4789.jpg" | relative_url }}){: style="width:60%"}
 
