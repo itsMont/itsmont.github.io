@@ -49,4 +49,4 @@ I'm also an amateur urban photographer. By now, here you can find some photos fr
 
 ![Un día en San Francisco, Nov. 2026]({{ "/assets/img/about/IMG_5607.jpg" | relative_url }}){: style="width:60%"}
 
-![Un día en San Francisco, Nov. 2026]({{ "/assets/img/about/IMG_5650.jpg" | relative_url }}){: style="width:60%"}
+![Un día en San Francisco, Nov. 2026]({{ "/assets/img/about/IMG_5650.jpg" | relative_url }}){: style="width:80%"}

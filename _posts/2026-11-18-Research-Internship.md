@@ -2,7 +2,7 @@
 layout: post
 title:  "Research Internship at Purdue University – HPC Semiconductor Industry Implementations"
 date:   2026-11-18 17:20:59 -0500
-categories: [hpc, mpi, cuda]
+categories: jekyll update
 ---
 # Introducción  
 
